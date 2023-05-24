@@ -18,6 +18,7 @@
                 b = c;
             }
             Console.WriteLine(string.Join(", ", nums));
+            Console.WriteLine("Goodbye!");
         }
     }
 }
